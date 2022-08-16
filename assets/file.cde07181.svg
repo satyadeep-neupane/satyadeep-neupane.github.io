@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 201.5805 213.6509">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #0057d8;
+      }
+
+      .cls-3 {
+        fill: #253858;
+      }
+
+      .cls-4 {
+        fill: #505f79;
+      }
+
+      .cls-5 {
+        fill: #3dc7dc;
+      }
+
+      .cls-6 {
+        fill: #6bd5e5;
+      }
+
+      .cls-7 {
+        fill: #9ce3ee;
+      }
+
+      .cls-8 {
+        fill: #3384ff;
+      }
+
+      .cls-9 {
+        fill: #fafbfc;
+      }
+
+      .cls-10 {
+        fill: none;
+        stroke: #0057d8;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="7.8059" y1="178.4741" x2="193.7746" y2="-7.4946" gradientTransform="translate(-0.1321 0.1559) rotate(-0.0886)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.2057" stop-color="#0065ff"/>
+      <stop offset="1" stop-color="#4c9aff"/>
+    </linearGradient>
+  </defs>
+  <title>File Cabinet</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Objects">
+      <rect id="_Rectangle_" data-name="&lt;Rectangle&gt;" class="cls-1" x="0.1318" y="0.1555" width="201.3169" height="170.6683" transform="translate(0.1323 -0.1557) rotate(0.0886)"/>
+      <path class="cls-2" d="M21.466,78.8926a78.0491,78.0491,0,0,1-7.8022,32.8979,77.5164,77.5164,0,0,1-13.603,19.561L0,170.6681l107.8791.1668Z"/>
+      <rect class="cls-3" x="21.4995" y="19.838" width="158.6689" height="74.7906" transform="translate(0.0886 -0.1558) rotate(0.0886)"/>
+      <path id="_Path_" data-name="&lt;Path&gt;" class="cls-4" d="M159.6088,41.2873l-65.2166-.1008c-12.8622-.02-9.2438-10.6913-21.9635-10.711L48.7708,30.439a4.4858,4.4858,0,0,0-4.4927,4.4788l-.01,6.1912-.139,89.923,119.826.1853.1321-85.4373A4.4858,4.4858,0,0,0,159.6088,41.2873Z"/>
+      <path id="_Path_2" data-name="&lt;Path&gt;" class="cls-5" d="M164.0688,49.9794l-72.1361-.1115C77.7059,49.8458,81.7082,38.0422,67.639,38.02l-26.168-.04a4.9617,4.9617,0,0,0-4.9694,4.954l-.0106,6.8481-.1538,99.4637,132.5394.2049.1461-94.5021A4.9617,4.9617,0,0,0,164.0688,49.9794Z"/>
+      <path id="_Path_3" data-name="&lt;Path&gt;" class="cls-6" d="M167.7759,58.4853l-77.3911-.12c-15.2633-.0236-10.9694-12.6871-26.0636-12.71l-28.0743-.0434a5.3232,5.3232,0,0,0-5.3314,5.3149l-.0114,7.347-.165,106.71,142.1949.22.1568-101.3865A5.3231,5.3231,0,0,0,167.7759,58.4853Z"/>
+      <path id="_Path_4" data-name="&lt;Path&gt;" class="cls-7" d="M169.98,67.7765l-81.3774-.1258C72.5531,67.6259,77.0682,54.31,61.1966,54.2855l-29.52-.0456a5.5973,5.5973,0,0,0-5.606,5.5887l-.0119,7.7254L25.8848,179.76l149.5191.2312.1648-106.6087A5.5973,5.5973,0,0,0,169.98,67.7765Z"/>
+      <rect class="cls-8" x="21.3618" y="79.0152" width="158.6689" height="134.5131" transform="translate(0.2263 -0.1555) rotate(0.0886)"/>
+      <rect class="cls-9" x="84.7367" y="184.2369" width="46.002" height="8.216" rx="2.8038" ry="2.8038" transform="translate(0.2913 -0.1664) rotate(0.0886)"/>
+      <circle class="cls-9" cx="72.8868" cy="188.291" r="4.108" transform="translate(-115.5167 260.8865) rotate(-89.9114)"/>
+      <rect class="cls-10" x="70.5888" y="113.7563" width="60.2149" height="47.242" rx="2" ry="2" transform="translate(0.2125 -0.1555) rotate(0.0886)"/>
+      <rect class="cls-9" x="82.0754" y="112.2699" width="37.242" height="50.2149" rx="2" ry="2" transform="translate(238.2294 36.8936) rotate(90.0886)"/>
+    </g>
+  </g>
+</svg>
